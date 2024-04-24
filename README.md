@@ -13,6 +13,7 @@ Trap Vector: 0x1880
 
 ## Результат симуляции
 Сброс (Reset Vector: 0x2000):
+
 ![1](https://github.com/BotWaw/scr1/assets/99167822/f5926476-cb22-47f7-89d7-9e9f599a7cd6)
 
 Исключение "Illegal instruction" с кодом 2. Переход по адресу обработчика прерываний 0x1880:
