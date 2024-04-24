@@ -1,9 +1,13 @@
 # lab-scr1-sim
 ## Вариант задания
 Вид исключения: Illegal instruction
+
 Тест: isa/rv32mi/illegal.S
+
 Reset Vector: 0x2000
+
 Trap Vector: 0x1880
+
 Обработчик: Вывод строки "illexc"
 
 ## Выполненные действия:
